@@ -1,0 +1,6 @@
+# APK 已托管到 GitHub Release，不重复上传
+assets/yumaoqiu.apk
+
+# 系统文件
+Thumbs.db
+.DS_Store
